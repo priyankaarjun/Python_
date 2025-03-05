@@ -1,0 +1,22 @@
+print("win" == "win")
+print("win" == "winn")
+
+rcb = "win"
+if(rcb == "win"):
+    print("Eo sala cup namde")
+else:
+    print("Valakam pola namaku cup lla")
+
+
+rcb = "lose"
+if(rcb == "win"):
+    print("Eo sala cup namde")
+else:
+    print("Valakam pola namaku cup lla")
+
+
+Megna = input()
+if(Megna == "Died"):
+    print("Vaishu meets Saranya")
+else:
+    print("Vaishu weds saranya")
