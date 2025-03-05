@@ -1,0 +1,28 @@
+def add():
+    print("Addition")
+    a = int(input("A:"))
+    b = int(input("B:"))
+    print(a+b)
+add()
+
+def sub():
+    print("subraction")
+    a = int(input("A:"))
+    b = int(input("B:"))
+    print(a-b)
+sub()
+
+def multi():
+    print("Multiple")
+    a = int(input("A:"))
+    b = int(input("B:"))
+    print(a*b)
+multi()
+
+def div():
+    print("division")
+    a = int(input("A:"))
+    b = int(input("B:"))
+    print(a/b)
+div()
+
