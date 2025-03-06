@@ -1,0 +1,12 @@
+S_username = "Priya"
+S_password = 1234
+
+uname = input()
+password = int(input())
+
+def validate():
+  if(S_username == uname and S_password == password):
+    print("Correct")
+  else:
+    print("Wrong")
+validate()
