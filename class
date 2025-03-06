@@ -1,0 +1,7 @@
+class goa:
+  name = "djhfy"
+  drink = " "
+  def party(self):
+    print("Lets party")
+  def beach(self):
+    print("Enjoy")
